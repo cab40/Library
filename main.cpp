@@ -18,8 +18,8 @@
 #include <vector>
 #include <cassert>
 
-#include "a5_book.hpp"
-#include "a5_library.hpp"
+#include "book.hpp"
+#include "library.hpp"
 
 using namespace std;
 
